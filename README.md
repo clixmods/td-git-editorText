@@ -1,0 +1,1 @@
+# td-git-editorText
